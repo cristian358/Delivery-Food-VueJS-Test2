@@ -1,2 +1,12 @@
-# Delivery-Food-VueJS-Test2
- Delivery-Food-VueJS-Test2
+Vue Delivery Food Test 2
+
+Как запустить?
+
+Склонировать репозиторий к себе на ПК
+1. npm install 
+2. npm run dev
+3. Готово!
+
+Весь Код всех 3 задач находится в ./pages/Home.vue
+
+Спасибоб за интересные задачи
